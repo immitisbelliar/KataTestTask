@@ -1,0 +1,2 @@
+class IncorrectFormatException extends Exception{
+}
